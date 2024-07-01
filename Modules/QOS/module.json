@@ -1,0 +1,11 @@
+{
+    "name": "QOS",
+    "alias": "qos",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\QOS\\Providers\\QOSServiceProvider"
+    ],
+    "files": []
+}

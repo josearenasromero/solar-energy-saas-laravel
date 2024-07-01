@@ -1,0 +1,11 @@
+{
+    "name": "DataCollector",
+    "alias": "datacollector",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DataCollector\\Providers\\DataCollectorServiceProvider"
+    ],
+    "files": []
+}

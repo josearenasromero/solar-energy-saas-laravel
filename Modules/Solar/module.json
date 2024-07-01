@@ -1,0 +1,11 @@
+{
+    "name": "Solar",
+    "alias": "solar",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Solar\\Providers\\SolarServiceProvider"
+    ],
+    "files": []
+}

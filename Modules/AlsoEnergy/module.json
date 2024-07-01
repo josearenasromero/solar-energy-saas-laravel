@@ -1,0 +1,11 @@
+{
+    "name": "AlsoEnergy",
+    "alias": "alsoenergy",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AlsoEnergy\\App\\Providers\\AlsoEnergyServiceProvider"
+    ],
+    "files": []
+}

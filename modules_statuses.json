@@ -1,0 +1,12 @@
+{
+    "Common": true,
+    "Auth": true,
+    "Utility": true,
+    "Customer": true,
+    "QOS": true,
+    "UtilityAPI": true,
+    "DataCollector": true,
+    "Solar": true,
+    "RateAcuity": true,
+    "AlsoEnergy": true
+}

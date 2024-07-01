@@ -1,0 +1,11 @@
+{
+    "name": "UtilityAPI",
+    "alias": "utilityapi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UtilityAPI\\Providers\\UtilityAPIServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "RateAcuity",
+    "alias": "rateacuity",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RateAcuity\\Providers\\RateAcuityServiceProvider"
+    ],
+    "files": []
+}
